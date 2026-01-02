@@ -30,12 +30,12 @@ It allows users to easily convert temperatures between **Celsius**, **Fahrenheit
 ├── index.html # Main HTML file
 ├── style.css # Styling
 ├── app.js # JavaScript logic
-└── README.md # Project documentation```
+└── README.md # Project documentation
+```
 
 ## 📌 How to Run the Project
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/kuhiteleena/temperature_converter.git  
 2. Navigate to the project folder: cd temperature_converter
 3. Open index.html in your browser.
