@@ -26,11 +26,11 @@ It allows users to easily convert temperatures between **Celsius**, **Fahrenheit
 
 ## 📁 Project Structure
 
-temperature_converter/
+```temperature_converter/
 ├── index.html # Main HTML file
 ├── style.css # Styling
 ├── app.js # JavaScript logic
-└── README.md # Project documentation
+└── README.md # Project documentation```
 
 ## 📌 How to Run the Project
 
